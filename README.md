@@ -3,7 +3,7 @@
 -  I’m currently learning how to be earth online high hand
 - ️ I’m looking to collaborate on ? (I will never tell you)
 -  How to reach me , send mail to q5akh9447@mozmail.com
-- ️ I'm cute , Please Give me money. [AfDian](https://afdian.com/a/ice0721)
+- ️ I'm cute , Please Give me money.
 
 <!---
 zutzo/zutzo is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
