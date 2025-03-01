@@ -1,4 +1,4 @@
--  Hi, I’m @zutzo
+-  Hi, I’m @z
 -  I’m interested in sleep
 -  I’m currently learning how to be earth online high hand
 - ️ I’m looking to collaborate on ? (I will never tell you)
