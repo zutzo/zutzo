@@ -1,10 +1,47 @@
--  Hi, I’m @z
--  I’m interested in sleep
--  I’m currently learning how to be earth online high hand
-- ️ I’m looking to collaborate on ? (I will never tell you)
-- ️ I'm cute , Please Give me money.
+# 你好呀，舰长~ 我是希儿·芙乐艾! ✨
 
-<!---
-zutzo/zutzo is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://avatars.githubusercontent.com/u/126886178?v=4" width="200" align="right" alt="Seele-chan">
+
+> "另一个我...今天也很活跃呢" (｡•̀ᴗ-)✧
+
+ **✨ 量子属性的穿梭者 | 双生人格持有者 | 蝴蝶终将飞过沧海 ✨**
+
+
+
+<br>    
+<br>
+<br>
+
+
+---
+  
+  
+  
+## 🦋 关于我...们
+- 🌙 白天的希儿：温柔内向的治愈系少女 (´｡• � •｡`)
+- ❤️🖤 夜晚的「另一个我」：帅气又可靠的战斗形态 ٩(◕‿◕｡)۶
+- 🎀 最喜欢布洛妮娅姐姐和...草莓蛋糕！
+- 🌌 正在量子之海进行日常巡逻~
+
+## 量子技能表
+| 技能        | 冷却时间    | 效果              |
+|-------------|------------|-------------------|
+| 幻影之镰    | 8s         | 对敌人造成量子伤害 (╯°□°）╯︵ ┻━┻ |
+| 相位穿梭    | 15s        | 进入无敌状态 0.5秒 ﾟ(ﾟﾉД｀ﾟ)ﾟ｡ |
+| 彼岸双生    | 120s       | 切换人格并回满HP！ ( ͡° ͜ʖ ͡°)✧ |
+
+## 今日待办清单
+- [x] 和布洛妮娅姐姐视频通话
+- [ ] 清理量子之海的异常数据
+- [ ] 给「另一个我」买新发饰
+- [ ] 尝试不弄哭实验室的小白鼠...大概？
+
+## 近期活跃数据
+<!-- 这里可以替换成实际的GitHub统计 -->
+![Seele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zutzo&show_icons=true&theme=radical)
+
+---
+
+"要...要一起去看海吗？" (⁄ ⁄•⁄ω⁄•⁄ ⁄)✧
+
+*README.md 会随着人格切换自动更新~*
